@@ -1,4 +1,4 @@
-# 
+# Instantané GitKraken plugins pour Mac OS | VIP GitKraken plugins pour PC Windows. Avec support des sous-modules et gestion des certificats SSL — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
